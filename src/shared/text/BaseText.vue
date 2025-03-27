@@ -20,6 +20,7 @@ const props = defineProps<Props>()
 .typography {
   font-style: normal;
   line-height: 150%;
+  font-family: 'Rubik', sans-serif;
 }
 .bold {
   font-weight: 700;
